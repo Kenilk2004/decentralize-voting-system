@@ -20,7 +20,7 @@ how to run
 
 6. Deploy smart contract to the (local) blockchain network (i.e ganache-cli)
 
-   # on the 22bce147_196_voting system directory 
+   # on the directory
    truffle migrate
 Use `truffle migrate --reset` for re-deployments
 
