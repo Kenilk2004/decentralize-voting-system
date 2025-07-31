@@ -21,9 +21,7 @@ const Footer = () => (
         </p>
         <p>
           Made with <i className="fas fa-heartbeat" /> by{" "}
-          Kenil Kathiriya , Tirth Mordiya
-          </a>
-          .
+          Kenil Kathiriya, Tirth Mordiya.
         </p>
       </div>
     </div>
